@@ -55,7 +55,7 @@ The system securely hides encrypted files inside images while maintaining visual
 
 # Project Architecture
 
-```text
+<!-- ```text
 Input File
     ↓
 Compression (ZSTD)
@@ -75,7 +75,8 @@ AES Decryption
 ZSTD Decompression
     ↓
 Recovered File
-```
+``` -->
+(docs/architecture.svg)
 
 ---
 
@@ -151,6 +152,7 @@ python src/All_Code.py
 - GPU acceleration
 
 ---
+
 
 # Performance Metrics
 
