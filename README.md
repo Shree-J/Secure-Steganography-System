@@ -84,7 +84,7 @@ Recovered File
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Secure-Steganography-System.git
+git clone https://github.com/Shree-J/Secure-Steganography-System.git
 cd Secure-Steganography-System
 ```
 
@@ -124,15 +124,11 @@ python src/All_Code.py
 
 ## Generated Image
 
-(Add screenshot here)
+![Generated Image](screenshots/generated_image.png)
 
 ## Embedded Output
 
-(Add screenshot here)
-
-## Terminal Output
-
-(Add screenshot here)
+![Embedded Output](screenshots/embedded_output.png)
 
 ---
 
@@ -179,10 +175,9 @@ The project measures:
 
 # Author
 
-Your Name
+Shree Jogi
 
 ---
 
-# License
 
-MIT License
+
