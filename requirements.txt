@@ -1,0 +1,21 @@
+# Cryptographic hashing
+blake3>=1.0.0
+
+# Numerical computations
+numpy>=1.24.0
+
+# Visualization and plotting
+matplotlib>=3.7.0
+
+# Compression library
+zstandard>=0.22.0
+
+# Image processing
+pillow>=10.0.0
+opencv-python>=4.9.0
+
+# Encryption library
+cryptography>=42.0.0
+
+# System and memory monitoring
+psutil>=5.9.0
